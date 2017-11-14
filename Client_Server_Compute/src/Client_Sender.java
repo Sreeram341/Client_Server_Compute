@@ -23,7 +23,7 @@ public class Client_Sender {
 
 	public JFrame MainFrame = new JFrame();
 
-	Socket client;
+	Socket client;//
 
 	InputStream input;
 
